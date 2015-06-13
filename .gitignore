@@ -2,3 +2,4 @@
 *.jar
 doc/
 test-reports/
+.DS_Store
